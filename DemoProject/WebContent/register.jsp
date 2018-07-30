@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-REGISTRATION
+Register
 </body>
 </html>
