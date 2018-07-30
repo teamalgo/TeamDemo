@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-This is index fileh p
+
+
+INDEX FILE
 </body>
 </html>
